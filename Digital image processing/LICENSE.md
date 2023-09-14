@@ -14,7 +14,7 @@ Al utilizar este código fuente, acepta cumplir con estos términos y condicione
 
 Para cualquier pregunta o solicitudes de permisos adicionales, comuníquese con los autores originales a través de la información de contacto proporcionada en el archivo README.md.
 
-Derechos de autor © 2022 Daniel Felipe Lasso Mora, Camila Leyva Escalante y Laura Peñaloza López
+Derechos de autor © 2021 Daniel Felipe Lasso Mora, Camila Leyva Escalante y Laura Peñaloza López
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # SOURCE CODE LICENSE
 
@@ -32,4 +32,4 @@ By using this source code, you agree to comply with these terms and conditions. 
 
 For any questions or requests for additional permissions, please contact the original authors through the contact information provided in the README.md file.
 
-Copyright © 2022 Daniel Felipe Lasso Mora, Camila Leyva Escalante, and Laura Peñaloza López
+Copyright © 2021 Daniel Felipe Lasso Mora, Camila Leyva Escalante, and Laura Peñaloza López
