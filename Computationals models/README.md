@@ -38,7 +38,7 @@ Si deseas replicar este proyecto en tu entorno local, sigue estos pasos:
 ## Contacto
 Si tienes alguna pregunta o comentario sobre este proyecto, no dudes en ponerte en contacto con:
 
-- Daniel Felipe Lasso Mora: [danielf.lassom@autonoma.edu.co
+- Daniel Felipe Lasso Mora: danielf.lassom@autonoma.edu.co
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Kaggle Binary Classification Project
 
@@ -79,4 +79,4 @@ If you wish to replicate this project in your local environment, follow these st
 ## Contact
 If you have any questions or comments about this project, please feel free to contact:
 
-- Daniel Felipe Lasso Mora: [danielf.lassom@autonoma.edu.co]
+- Daniel Felipe Lasso Mora: danielf.lassom@autonoma.edu.co]
